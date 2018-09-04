@@ -36,10 +36,10 @@ PC: 4000
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/reto2.1.png)
 
-(/reto2.2.png)
+![Actividad 2](/reto2.2.png)
 
-(/reto2.3.png)
+![Actividad 3](/reto2.3.png)
 
-(/reto2.4.png)
+![Actividad 4](/reto2.4.png)
 
-(/reto2.5.png)
+![Actividad 5](/reto2.5.png)
