@@ -34,8 +34,12 @@ PC: 4000
 
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
-![Actividad 1] 
+![Actividad 1] (/reto2.1.png)
 
+(/reto2.2.png)
 
+(/reto2.3.png)
 
+(/reto2.4.png)
 
+(/reto2.5.png)
